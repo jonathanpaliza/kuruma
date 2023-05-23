@@ -10,4 +10,3 @@ class Cars(Base):
     make = Column(String)
     year = Column(Integer)
 
-    
